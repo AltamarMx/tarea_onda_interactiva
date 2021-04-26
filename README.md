@@ -12,7 +12,7 @@ para el eje y de 0 a 1.5*Amplitud, como se muestra en las dos siguientes figuras
 ![triangular](./img/triangular.png)
 
 
-La gráfica interactiva se debe colocar en el folder notebooks.
+La gráfica interactiva se debe colocar en el folder notebooks, en la libreta grafica_interactiva que se encuentra vacia.
 
 Este ejercicio vale 48  puntos, que se asignaran:
 
