@@ -21,3 +21,7 @@ Este ejercicio vale 48  puntos, que se asignaran:
 * 15 puntos: gráfica triangular
 *  5 puntos: etiquetas en $x$ y $y$
 *  3 puntos: etiquetas para las gráficas (1 por tipo de gráfica)
+
+
+
+Puedes revisar [esta](https://en.wikipedia.org/wiki/Square_wave#:~:text=A%20square%20wave%20is%20a,minimum%20and%20maximum%20are%20instantaneous.) liga para revisar la teoría de las gráficas:
