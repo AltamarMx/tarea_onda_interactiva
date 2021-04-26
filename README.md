@@ -5,7 +5,7 @@ Realiza una gráfica usando  interact, numpy y matplotlib que grafique una onda 
 En la interacción se debe poder definir el periodo entre 1 a 10 y la amplitud de 1 a 10, ambas con un paso de 1.
 
 La visualización  para el eje x debe ir de 0 a 10, 
-para el eje y de -1.5*Amplitud  a 1.5*Amplitud, como se muestra en las dos siguientes figuras:
+para el eje y de (-1.5)Amplitud  a (1.5)Amplitud, como se muestra en las dos siguientes figuras:
 
 ![cuadrada](./img/cuadrada.png)
 
