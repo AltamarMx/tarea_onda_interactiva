@@ -16,8 +16,8 @@ La gráfica interactiva se debe colocar en el folder notebooks.
 
 Este ejercicio vale 48  puntos, que se asignaran:
 
-10 puntos: gráfica del sin
-15 puntos: gráfica cuadrada
-15 puntos: gráfica triangular
- 5 puntos: etiquetas en $x$ y $y$
- 3 puntos: etiquetas para las gráficas (1 por tipo de gráfica)
+* 10 puntos: gráfica del sin
+* 15 puntos: gráfica cuadrada
+* 15 puntos: gráfica triangular
+*  5 puntos: etiquetas en $x$ y $y$
+*  3 puntos: etiquetas para las gráficas (1 por tipo de gráfica)
