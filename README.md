@@ -1,4 +1,4 @@
-# tarea_onda_interactiva
+# Tarea: Onda Interactiva
 
 Realiza una gráfica usando  interact, numpy y matplotlib que grafique una onda sinusoidal y te permita seleccionar  una onda cuadrada o una onda triangular y las grafique.
 
