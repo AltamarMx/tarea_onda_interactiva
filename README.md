@@ -16,7 +16,7 @@ La gráfica interactiva se debe colocar en el folder notebooks, en la libreta gr
 
 Este ejercicio vale 48  puntos, que se asignaran:
 
-* 10 puntos: gráfica del sin
+*10 puntos: gráfica del sin
 
 * 15 puntos: gráfica cuadrada
 
