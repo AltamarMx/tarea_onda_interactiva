@@ -24,7 +24,6 @@ Este ejercicio vale 48  puntos, que se asignaran:
 
 *  5 puntos: etiquetas en $x$ y $y$
 *  3 puntos: etiquetas para las gráficas (1 por tipo de gráfica)
-*  3 puntos: etiquetas para las gráficas (1 por tipo de gráfica)
 
 
 
